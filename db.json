@@ -5,10 +5,8 @@
         "Description":"Sunburn 2020 is back in Goa once again to make you relive the time of your life. The Sunburn Festival is famous for it`s amazing music and commendable artist line-up, this year showcasing DJ Snake, The Chainsmokers, Flume and Martin Garrix, who are here to make sure you gave a great time. Bask in the glory of Goa while being soaked in the mesmerizing music of the concert. No matter if it`s your first time to the festival or the 10th, Sunburn promises a memorable experience for you and your friends! Not to mention Instagram feeds for days. Hurry Up! Book your tickets to the Sunburn Festival NOW",
         "Date":"10-10-2020",
         "phone":"555-555-5222",
-        "Email":"sunburngoa@gmail.com
-        "Venue":"panaji",
-        "Venueid":"5678",
-        "State":"GOA",
+        "Email":"sunburngoa@gmail.com"
+        
         },
         
         {
@@ -16,53 +14,9 @@
         "Description":"After enthralling audiences with back-to-back, full-house shows for Big Bang 100 in August 2017, and Don’t Stop Me Now in August 2018, The Bangalore Chorus is bigger and even better this year with Big Bang 2020!!,
         "Date":"15-12-2020",
         "phone":"555-565-5255",
-        "Email":"bigbang@gmail.com
-        "Venue":"Marathahalli",
-        "Venueid":"135",
-        "State":"BANGALORE",
+        "Email":"bigbang@gmail.com"
+        
         },
         
-        {
-        "Name":"Bounce Back Seminar of Dr. Vivek Bindra",
-        "Description":"We are glad to introduce you to our upcoming seminar on the `Ultra Productivity & Peak Performance` program brought to you by none other than the very charismatic Dr. Vivek Bindra ™ (International Motivational Speaker | Leadership Consultant | CEO Coach)",
-        "Date":"15-8-2020",
-        "phone":"555-666-5222",
-        "Email":"motivate@gmail.com
-        "Venue":"HYDERABAD",
-        "Venueid":"8885",
-        "State":"TELANGANA",
-        },
-        
-        {
-        "Name":"Happiness Mantra by Gaur Gopal Das",
-        "Description":"We are honored to bring the internationally acclaimed life coach Shri Gaur Gopal Das to the Mumbai audience. Based on the timeless wisdom coming down from ages, his talks make the audience think deeper and find simple solutions to find Peace & Happiness.",
-        "Date":"12-10-2020",
-        "phone":"665-555-5222",
-        "Email":"spirituality@gmail.com
-        "Venue":"GOA",
-        "Venueid":"5678",
-        "State":"GOA",
-        },
-        
-        
-        {
-        "Name":"Kenny Sebastian - A Day Of Guest List",
-        "Description":"Stand-up comedy is a comic style in which a comedian performs in front of a live audience, usually speaking directly to them. The performer is commonly known as a comic, stand-up comic, comedian, comedienne, stand-up comedian, or simply a stand-up.",
-        "Date":"10-8-2020",
-        "phone":"666-555-5562",
-        "Email":"standup@gmail.com
-        "Venue":"HYDERABAD",
-        "Venueid":"7896",
-        "State":"TELANGANA",
-        }
         ]
-        
-        
-       
-        
-        
-        
-        
-        
-        
-      
+
